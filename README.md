@@ -25,15 +25,16 @@ Usar a técnica de webscraping para extrair informações do portal http://quote
 2)Instalação
 	a)Instale as seguintes bibliotecas com o pip
 	
-	 * **requests2** - É útil
-	 * **pandas** - Biblioteca para trabalhar com dados em python;
-	 * **lxml** - Biblioteca para processar XML e HTML;
-	 * **beautfulsoup4** - Biblioteca para extrair de fato dados de HTML e XML;
-	 * **selenium** - Voce vai usar para acessar e clicar no site.
+		** **requests2** - É útil
+		** **pandas** - Biblioteca para trabalhar com dados em python;
+		** **lxml** - Biblioteca para processar XML e HTML;
+		** **beautfulsoup4** - Biblioteca para extrair de fato dados de HTML e XML;
+		** **selenium** - Voce vai usar para acessar e clicar no site.
 	 
 	 b)Instale o Geckodriver com o pip e o driver para chrome
-	* **pip install webdrivermanager
-	* **webdrivermanager chrome --linkpath /usr/local/bin
+	 
+		** **pip install webdrivermanager
+		** **webdrivermanager chrome --linkpath /usr/local/bin
 
 3)Execute o codigo
 ```
