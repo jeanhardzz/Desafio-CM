@@ -15,16 +15,16 @@ Para executar:
 ## Teste-2 - Extração de dados
 Usar a técnica de webscraping para extrair informações do portal http://quotes.toscrape.com/ e armazenar em um arquivo JSON.
 
-1)Pré-requisitos
+## Pré-requisitos
 
 	* Python 3.x
 	* Geckodriver
 	* Google Chrome
 	* Algumas bibliotecas do python
 
-2)Instalação
+## Instalação
 
-	a)Instale as seguintes bibliotecas com o pip
+## Instale as seguintes bibliotecas com o pip
 	
 * **requests2** - É útil
 * **pandas** - Biblioteca para trabalhar com dados em python;
@@ -32,13 +32,13 @@ Usar a técnica de webscraping para extrair informações do portal http://quote
 * **beautfulsoup4** - Biblioteca para extrair de fato dados de HTML e XML;
 * **selenium** - Voce vai usar para acessar e clicar no site.
 	 
-	b)Instale o Geckodriver com o pip e o driver para chrome
+## Instale o Geckodriver com o pip e o driver para chrome
 ```	 
 pip install webdrivermanager
 webdrivermanager chrome --linkpath /usr/local/bin
 ```
 
-3)Execute o codigo
+## Execute o codigo
 ```
 python webscraping.py
 ```
