@@ -11,8 +11,10 @@ Dois problemas são abordados:
 ```
 
 ## Para executar: 
-	1)python teste-1.py
-	2)Uma vez executado escolha o problema atraves do menu.
+```
+	python teste-1.py
+	Uma vez executado escolha o problema atraves do menu.
+```
 	
 ## Teste-2 - Extração de dados
 Usar a técnica de webscraping para extrair informações do portal http://quotes.toscrape.com/ e armazenar em um arquivo JSON.
