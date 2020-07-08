@@ -32,10 +32,11 @@ Usar a técnica de webscraping para extrair informações do portal http://quote
 * **beautfulsoup4** - Biblioteca para extrair de fato dados de HTML e XML;
 * **selenium** - Voce vai usar para acessar e clicar no site.
 	 
-	 b)Instale o Geckodriver com o pip e o driver para chrome
-	 
-* **pip install webdrivermanager
-* **webdrivermanager chrome --linkpath /usr/local/bin
+	b)Instale o Geckodriver com o pip e o driver para chrome
+```	 
+pip install webdrivermanager
+webdrivermanager chrome --linkpath /usr/local/bin
+```
 
 3)Execute o codigo
 ```
