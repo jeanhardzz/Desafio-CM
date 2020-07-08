@@ -1,7 +1,7 @@
 # Desafio-CM
 Desafio para a vaga de estágio da CM tecnologia.
 
-##Teste-1
+#Teste-1
 Dois problemas são abordados:
 	1)A soma dos algarismos de um numero.
 		ex) 123 = 6
@@ -12,7 +12,7 @@ Para executar:
 	1)python teste-1.py
 	2)Uma vez executado escolha o problema atraves do menu.
 	
-##Teste-2 - Extração de dados
+#Teste-2 - Extração de dados
 Usar a técnica de webscraping para extrair informações do portal http://quotes.toscrape.com/ e armazenar em um arquivo JSON.
 
 1)Pré-requisitos
