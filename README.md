@@ -3,11 +3,29 @@ Desafio para a vaga de estágio da CM tecnologia.
 
 ## Teste-1
 Dois problemas são abordados:
+
+## 1)A soma dos algarismos de um numero.
 ```
-	1)A soma dos algarismos de um numero.
-		ex) 123 = 6
-	2)A multiplicação de uma String.
-		ex) 12 * 3 = 121212
+ex) 123 = 6
+Para resolver este problema usei a divisao e o resto por 10.
+ex) 123/10 = 12 (pegando a parte inteira)
+	123%10 = 3
+	repetindo o processo..
+	12/10 = 1
+	12%10 = 2
+	
+	Dessa forma eu consigo pegar os algarismos
+	armazena-los e entao soma-los.
+	
+	E usei recursão para otimizar o processo.
+```
+	
+##2)A multiplicação de uma String.
+```
+ex) 12 * 3 = 121212
+Para resolver esse problema usando python é facil.
+Basta multiplicar a string pelo inteiro, que o python
+entende e nos retorna o resultado esperado.
 ```
 
 ## Para executar: 
