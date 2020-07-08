@@ -21,10 +21,10 @@ Usar a técnica de webscraping para extrair informações do portal http://quote
 
 ## Pré-requisitos
 
-	* Python 3.x
-	* Geckodriver
-	* Google Chrome
-	* Algumas bibliotecas do python
+* Python 3.x
+* Geckodriver
+* Google Chrome
+* Algumas bibliotecas do python
 
 ## Instalação
 
