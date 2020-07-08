@@ -20,7 +20,7 @@ ex) 123/10 = 12 (pegando a parte inteira)
 	E usei recursão para otimizar o processo.
 ```
 	
-##2)A multiplicação de uma String.
+## 2)A multiplicação de uma String.
 ```
 ex) 12 * 3 = 121212
 Para resolver esse problema usando python é facil.
