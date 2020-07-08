@@ -3,12 +3,14 @@ Desafio para a vaga de estágio da CM tecnologia.
 
 ## Teste-1
 Dois problemas são abordados:
+```
 	1)A soma dos algarismos de um numero.
 		ex) 123 = 6
 	2)A multiplicação de uma String.
 		ex) 12 * 3 = 121212
+```
 
-Para executar: 
+## Para executar: 
 	1)python teste-1.py
 	2)Uma vez executado escolha o problema atraves do menu.
 	
